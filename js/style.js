@@ -1,9 +1,9 @@
 const stars = [
-    { gif: "assets/Untitled-Artwork.gif", sound: "assets/sound1.mp3", top: "8%", right: "25%", size: "220px" },
-    { gif: "assets/Untitled-Artwork__1_.gif", sound: "assets/sound2.mp3", top: "38%", left: "12%", size: "95px" },
-    { gif: "assets/Untitled-Artwork__2_.gif", sound: "assets/sound3.mp3", top: "22%", left: "42%", size: "150px" },
-    { gif: "assets/Untitled-Artwork__3_.gif", sound: "assets/sound4.mp3", top: "52%", right: "18%", size: "75px" },
-    { gif: "assets/Untitled-Artwork__4_.gif", sound: "assets/sound5.mp3", bottom: "28%", left: "28%", size: "180px" },
+    { gif: "Untitled-Artwork.gif", sound: "sound1.mp3", top: "8%", right: "25%", size: "220px" },
+    { gif: "Untitled-Artwork__1_.gif", sound: "sound2.mp3", top: "38%", left: "12%", size: "95px" },
+    { gif: "Untitled-Artwork__2_.gif", sound: "sound3.mp3", top: "22%", left: "42%", size: "150px" },
+    { gif: "Untitled-Artwork__3_.gif", sound: "sound4.mp3", top: "52%", right: "18%", size: "75px" },
+    { gif: "Untitled-Artwork__4_.gif", sound: "sound5.mp3", bottom: "28%", left: "28%", size: "180px" },
 ];
 
 const container = document.getElementById('container');
