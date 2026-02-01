@@ -21,7 +21,7 @@ body {
 
 .star:hover { transform: scale(1.1); }
 .star:active { transform: scale(0.95); }
-.star img { width: 100%; height: 100%; object-fit: contain; }
+.star img { width: 100%; height: auto; }
 .star.playing { filter: brightness(1.3); }
 
 .wave {
